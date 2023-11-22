@@ -1,0 +1,23 @@
+﻿Variable,Description
+Platform,Name of the Platform the game is played on
+Year of release,The year it was released
+Genre,Different type of game
+Publisher,Publishing company of the game
+NA Sales,Sale of the specific game in Northern America (in million)
+EU Sales,Sale of the specific game in Europe (in million)
+JP Sales,Sale of the specific game in Japan (in million)
+Other Sales,Sale of the specific game in other parts of the world (in million)
+Global Sales,Total sale of the specific game globally (in million)
+Critic Score,Average score given to the game by critics
+Critic Count,Total number of critics who gave the score
+User Score,Average score given to the game by user
+User Count,Total number of users who gave the score
+Developer,Name of developer of the game
+Rating _AO,Adults Only (age 18 and up)
+Rating_E,Everyone
+Rating _E10+,Everyone who are 10 years and up
+Rating _EC,Early Childhood
+Rating_K-A,Kid to adults (generally for age 13 - 18)
+Rating _M,Mature (age 17 and up)
+Rating_RP,Rating Pending
+Rating _T,Teen (age 13 and up)
